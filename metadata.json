@@ -1,0 +1,5 @@
+{
+  "name": "AetherCalc AI",
+  "description": "A sophisticated scientific calculator integrated with Gemini AI for complex formula explanation, unit conversions, and step-by-step problem solving.",
+  "requestFramePermissions": []
+}
